@@ -33,10 +33,8 @@ class Solution:
                 L2+=1
         print(Nums, count)
         if count%2:
-            # print(Nums[-1])
             return Nums[-1]
         
         else:
-            # print((Nums[-2]+Nums[-1])/2)
             return ((Nums[-2]+Nums[-1])/2)
 ```
