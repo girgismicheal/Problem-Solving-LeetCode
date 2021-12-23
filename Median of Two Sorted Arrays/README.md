@@ -33,7 +33,5 @@ class Solution:
         # calculate the Median
         if count%2: 
             return Nums[-1]
-        
-        else:
-            return ((Nums[-2]+Nums[-1])/2)
+        return ((Nums[-2]+Nums[-1])/2)
 ```
