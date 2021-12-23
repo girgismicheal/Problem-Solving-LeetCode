@@ -1,4 +1,7 @@
-# Median of Two Sorted Arrays
+# Median of Two Sorted Arrays (wanna improvement)
+- O ()
+- [Link text Here](- [https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/1641789/Binary-Search-Explained](https://link-url-here.org)
+)
 
 - O(n+m) solution
 ```Python
