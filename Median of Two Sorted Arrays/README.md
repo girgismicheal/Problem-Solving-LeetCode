@@ -16,21 +16,22 @@ class Solution:
         Nums = list()         # New list to sort both lists in
 
         for _ in range((count)//2 +1):
-            if L1 < L_N1 and L2 < L_N2:
+            if L1 < L_N1 and L2 < L_N2: # compare and assign
                 if nums1[L1]<=nums2[L2]:
                     Nums.append(nums1[L1])
                     L1+=1
                 else:
                     Nums.append(nums2[L2])
                     L2+=1
-            elif  L1 < L_N1:
+            elif  L1 < L_N1:          # add rest from List 1
                 Nums.append(nums1[L1])
                 L1+=1
-            else:
+            else:                     # add resr from List 2
                 Nums.append(nums2[L2])
                 L2+=1
 
-        if count%2:
+        # calculate the Median
+        if count%2: 
             return Nums[-1]
         
         else:
