@@ -3,7 +3,7 @@
 - O(n+m) solution
 ```Python
 class Solution:
-    def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+    def findMedianSortedArrays(nums1: List[int], nums2: List[int]) -> float:
         """
         :type nums1: List[int]
         :type nums2: List[int]
