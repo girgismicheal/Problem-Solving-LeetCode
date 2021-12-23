@@ -1,6 +1,5 @@
 # Median of Two Sorted Arrays (wanna improvement)
-- O(log(m+n) * log(max - min))
-- [Link text Here](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/1641789/Binary-Search-Explained)
+- O(log(m+n) * log(max - min)) [video](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/1641789/Binary-Search-Explained)
 ```Python
 import bisect
 def findMedianSortedArrays(nums1, nums2):
