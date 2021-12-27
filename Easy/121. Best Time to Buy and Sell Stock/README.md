@@ -1,7 +1,7 @@
 # 121. Best Time to Buy and Sell Stock
 
-## Space complexity: O(1)
-## Time Complexity: O(n)
+#### Space complexity: O(1)
+#### Time Complexity: O(n)
 ```Python
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
