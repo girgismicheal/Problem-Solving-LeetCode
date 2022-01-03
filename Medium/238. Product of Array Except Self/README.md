@@ -1,7 +1,7 @@
 # 
 ## Algorithm Explanation
 - 
--> Exapmle
+> Exapmle
   [1, 2, 3, 4]
 
   -> [1, 1, 1, 1] product = 1, idx = 1
