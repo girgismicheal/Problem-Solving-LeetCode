@@ -1,7 +1,12 @@
 # 
 ## Algorithm Explanation
-- assign the fir
-
+> 1. assign the fir
+> 2. 
+> 3. 
+> 4. 
+> 5. 
+> 
+ 
 > Exapmle
   [1, 2, 3, 4]
 
