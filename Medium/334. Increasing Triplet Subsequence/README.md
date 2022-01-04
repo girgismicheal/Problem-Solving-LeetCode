@@ -39,13 +39,13 @@ def increasingTriplet(nums: List[int]) -> bool:
 > - Invalid
 
 ### Example 3:
-- > nums = [2,1,5,0,4,6]
-> min3list= [inf, inf], num = 2
-> min3list= [2, inf], num = 1
-> min3list= [1, inf], num = 5
-> min3list= [1, 5], num = 0
-> min3list= [0, 5], num = 4
-> min3list= [0, 4], num = 6
-> valid
+> - nums = [2,1,5,0,4,6]
+> - min3list= [inf, inf], num = 2
+> - min3list= [2, inf], num = 1
+> - min3list= [1, inf], num = 5
+> - min3list= [1, 5], num = 0
+> - min3list= [0, 5], num = 4
+> - min3list= [0, 4], num = 6
+> - valid
 
 
