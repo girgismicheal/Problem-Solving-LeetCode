@@ -1,4 +1,4 @@
-# Median of Two Sorted Arrays (wanna improvement)
+# 4. Median of Two Sorted Arrays (wanna improvement)
 - O(log(m+n) * log(max - min)) [video](https://leetcode.com/problems/median-of-two-sorted-arrays/discuss/1641789/Binary-Search-Explained)
 ```Python
 import bisect
