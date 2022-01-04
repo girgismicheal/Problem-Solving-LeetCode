@@ -1,7 +1,7 @@
 #  238. Product of Array Except Self
 ## Analysis of Algorithms
- - Time complexity O(n)
- - Space complexity O(1) 
+ - Time complexity: O(n)
+ - Space complexity: O(1) we used the list, which would be returned.
 ## The Algorithm Explanation
 > 1. Result list fill it with ones
 > 2. Assign the first element of nums to product
