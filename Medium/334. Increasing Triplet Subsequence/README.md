@@ -1,10 +1,14 @@
-# 334. Increasing Triplet Subsequence
+# 334. Increasing Triplet Subsequence [Link](https://leetcode.com/problems/increasing-triplet-subsequence/)
+## Analysis of Algorithms
+ - Time complexity: O(n)
+ - Space complexity: O(1)
+## The Algorithm Explanation
 
-## Time complexity: O(n)
-## Space complexity: O(1)
+## The Code
+
 ```Python 
 
-def increasingTriplet(self, nums: List[int]) -> bool:
+def increasingTriplet(nums: List[int]) -> bool:
     min3list = [float('inf')]*2
     for num in nums:
         if min3list[0] >= num:
@@ -15,3 +19,10 @@ def increasingTriplet(self, nums: List[int]) -> bool:
             return True
     return False
 ```
+
+## An Example
+>
+
+
+
+
