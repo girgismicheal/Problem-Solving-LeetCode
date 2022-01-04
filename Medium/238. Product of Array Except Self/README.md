@@ -1,6 +1,7 @@
 # 
 ## Algorithm Explanation
-- 
+- assign the fir
+
 > Exapmle
   [1, 2, 3, 4]
 
@@ -17,3 +18,20 @@
   [1, 1, 2, 6]
   [24, 12, 4, 1]
   [24, 12, 8, 6]
+
+```Python
+def productExceptSelf(self, nums: List[int]) -> List[int]:
+        result = [1] * len(nums)
+        product = nums[0]
+        
+        for i in range(1,len(nums)):
+            result[i] *= product
+            product *= nums[i]
+            
+        product = nums[len(nums)-1]
+        for i in range(len(nums)-2,-1,-1):
+            result[i] *= product
+            product *= nums[i]
+            
+        return result
+```
