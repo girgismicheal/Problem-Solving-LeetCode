@@ -1,4 +1,4 @@
-# 
+#  238. Product of Array Except Self
 ## The Algorithm Explanation
 > 1. Result list fill it with ones
 > 2. Assign the first element of nums to product
@@ -31,6 +31,5 @@ def productExceptSelf(nums: List[int]) -> List[int]:
             
         return result
 ```
- ## An Exapmle
-
+## An Exapmle
 
