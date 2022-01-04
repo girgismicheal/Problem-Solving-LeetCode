@@ -3,9 +3,9 @@
 > 1. 
 > 2. 
 > 3.  iterate over the nums list
->  >  - begining from index 1
->  > - assign the previse product to the current result
->  > - then update it by multiplying with the current element
+>       >  - begining from index 1
+>       > - assign the previse product to the current result
+>       > - then update it by multiplying with the current element
 > 4. 
 > 5. 
 > 
