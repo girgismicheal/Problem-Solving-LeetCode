@@ -34,8 +34,9 @@ def productExceptSelf(nums: List[int]) -> List[int]:
             
         return result
 ```
+
 ## An Example
->
+
 > nums =  [1, 2, 3, 4]
 > 
 >   ### Forward loop
