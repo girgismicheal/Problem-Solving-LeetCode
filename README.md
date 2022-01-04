@@ -11,4 +11,4 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [X] (334) Increasing Triplet Subsequence
 - [X] (238) Product of Array Except Self
 ## Hard
-- [X] Median of Two Sorted Arrays
+- [ ] Median of Two Sorted Arrays
