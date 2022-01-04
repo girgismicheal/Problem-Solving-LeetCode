@@ -13,3 +13,22 @@
 >       > - Update it by multiplying with the current element
 
 
+## The Code
+
+```Python
+def productExceptSelf(nums: List[int]) -> List[int]:
+        result = [1] * len(nums)  # Result list fill it with ones
+        product = nums[0]         # assign the first element of nums to product
+        # , .  then update it by multiplinig with the current element
+        for i in range(1,len(nums)):
+            result[i] *= product
+            product *= nums[i]
+            
+        product = nums[len(nums)-1]
+        for i in range(len(nums)-2,-1,-1):
+            result[i] *= product
+            product *= nums[i]
+            
+        return result
+```
+ 
