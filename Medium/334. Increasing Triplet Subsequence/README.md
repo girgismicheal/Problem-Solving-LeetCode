@@ -2,8 +2,7 @@
 ## Analysis of Algorithms
  - Time complexity: O(n)
  - Space complexity: O(1)
-## The Algorithm Explanation
-> 1. 
+
 
 ## The Code
 
@@ -37,5 +36,14 @@ def increasingTriplet(nums: List[int]) -> bool:
 > min3list= [2, inf], num = 1
 > min3list= [1, inf]
 > Invalid
+
+> nums = [2,1,5,0,4,6]
+> min3list= [inf, inf], num = 2
+> min3list= [2, inf], num = 1
+> min3list= [1, inf], num = 5
+> min3list= [1, 5], num = 0
+> min3list= [0, 5], num = 4
+> min3list= [0, 4], num = 6
+> valid
 
 
