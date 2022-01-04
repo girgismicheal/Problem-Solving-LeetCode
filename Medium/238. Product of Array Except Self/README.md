@@ -33,3 +33,19 @@ def productExceptSelf(nums: List[int]) -> List[int]:
 ```
 ## An Exapmle
 
+
+nums =  [1, 2, 3, 4]
+
+  > result = [1, 1, 1, 1] product = 1, idx = 1
+  > result = [1, 1, 1, 1] product = 2, idx = 2
+  > result = [1, 1, 2, 6] product = 6, idx = 3
+
+   
+  > result = [1, 1, 4, 6] product = (product = 4) * (result[idx] = 2) = 8, idx = 2
+  > result = [1, 12, 4, 6] product = (product = 12) * (result[idx] = 1)= 12, idx = 1
+  > result = [24, 12, 4, 6] product = (product = 24) * (result[idx] = 1) = 24, idx = 0
+
+
+  [1, 1, 2, 6]
+  [24, 12, 4, 1]
+  [24, 12, 8, 6]
