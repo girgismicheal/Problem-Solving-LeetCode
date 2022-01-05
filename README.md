@@ -17,8 +17,8 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [ ] (160) Intersection of Two Linked Lists
 - [ ] (674) Longest Continuous Increasing Subsequence
 - [ ] (1) Two Sum
-- [ ] (1009)
-Complement of Base 10 Integer
+- [ ] (1009) Complement of Base 10 Integer
+- [ ] (14) Longest Common Prefix [LInk](https://leetcode.com/problems/longest-common-prefix/)
 
 ## Medium
 - [X] (334) Increasing Triplet Subsequence
