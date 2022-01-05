@@ -21,6 +21,7 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [ ] (14) Longest Common Prefix [Link](https://leetcode.com/problems/longest-common-prefix/)
 - [ ] (13) Roman to Integer [Link](https://leetcode.com/problems/roman-to-integer/)
 - [ ] (326) Power of Three [Link](https://leetcode.com/problems/power-of-three/)
+- [ ] (48) Rotate Image [Link](https://leetcode.com/problems/rotate-image/) [video](https://www.youtube.com/watch?v=kd5u3GEQkPY)
 
 ## Medium
 - [X] (334) Increasing Triplet Subsequence
