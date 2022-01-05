@@ -28,5 +28,7 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [X] (238) Product of Array Except Self
 - [ ] (55) Jump Game
 - [ ] (2) Add Two Numbers
+- [ ] (73) Set Matrix Zeroes [Link](https://leetcode.com/problems/set-matrix-zeroes/)
+
 ## Hard
 - [X] (4) Median of Two Sorted Arrays
