@@ -19,6 +19,7 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [ ] (1) Two Sum
 - [ ] (1009) Complement of Base 10 Integer
 - [ ] (14) Longest Common Prefix [Link](https://leetcode.com/problems/longest-common-prefix/)
+- [ ] (13) Roman to Integer [Link](https://leetcode.com/problems/roman-to-integer/)
 
 ## Medium
 - [X] (334) Increasing Triplet Subsequence
