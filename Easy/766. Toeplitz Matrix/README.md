@@ -26,9 +26,12 @@ class Solution:
 ## Examples
 
 ### Example 1:
+> matrix = [[1,2,3,4],[5,1,2,3],[9,5,1,2]]
+> 
 
 ### Example 2:
+> matrix = [[1,2],[2,2]]
+> 
 
-### Example 3:
 
 
