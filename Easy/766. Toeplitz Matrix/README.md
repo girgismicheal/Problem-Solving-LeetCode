@@ -1,4 +1,4 @@
-# 53. Maximum Subarray (Using Kadane's Algorithm) [Explanation Video](https://www.youtube.com/watch?v=86CQq3pKSUw)
+# 766. Toeplitz Matrix [Explanation Video](https://www.youtube.com/watch?v=86CQq3pKSUw)
 
 ## Analysis of Algorithms
  - Time complexity: O(1)
