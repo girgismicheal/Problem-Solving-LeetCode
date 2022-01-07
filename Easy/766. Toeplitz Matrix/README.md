@@ -7,16 +7,20 @@
 ## The Code
 
 ```Python
-import math
 class Solution:
-    def isPowerOfThree(self, n: int) -> bool:
-        if n <= 0:
-            return False
+    def isToeplitzMatrix(self, matrix: List[List[int]]) -> bool:
         
-        power = math.log10(n) / 0.47712125471966244 #= Log10(3)
-        if power.is_integer():
-            return True
-        return False
+        dia = {}
+        for i in range(len(matrix[0])):
+            dia[i] = matrix[0][i]
+        for i in range(len(matrix)):
+            dia[-i] = matrix[i][0]
+
+        for i in range(len(matrix)):
+            for j in range(len(matrix[0])):
+                if dia[-i+j] != matrix[i][j]:
+                    return False
+        return True
 ```
 
 ## Examples
