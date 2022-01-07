@@ -35,7 +35,4 @@ class Solution:
 > False
 
 ### Example 3:
-> - n = 45
-> 
-> - power = log(27) / log(3) = 3.4649 not integer
-> False
+
