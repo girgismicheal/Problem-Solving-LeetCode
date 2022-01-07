@@ -31,8 +31,6 @@ class Solution:
 > False
 
 ### Example 3:
-> - n = -3 <= 0
-> False
 
 ### Example 3:
 
