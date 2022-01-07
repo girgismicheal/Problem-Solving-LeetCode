@@ -1,7 +1,7 @@
 # 766. Toeplitz Matrix [Explanation Video](https://www.youtube.com/watch?v=86CQq3pKSUw)
 
 ## Analysis of Algorithms
- - Time complexity: O(1)
+ - Time complexity: O(n)
  - Space complexity: O(1)
 
 ## The Code
