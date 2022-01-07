@@ -32,5 +32,4 @@ class Solution:
 
 ### Example 3:
 
-### Example 3:
 
