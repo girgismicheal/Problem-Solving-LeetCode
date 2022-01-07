@@ -1,4 +1,4 @@
-# 766. Toeplitz Matrix [Explanation Video](https://www.youtube.com/watch?v=86CQq3pKSUw)
+# 766. Toeplitz Matrix [Link](https://leetcode.com/problems/toeplitz-matrix/)
 
 ## Analysis of Algorithms
  - Time complexity: O(n)
