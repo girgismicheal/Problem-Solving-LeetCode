@@ -22,13 +22,8 @@ class Solution:
 ## Examples
 
 ### Example 1:
-> - n = 27
-> 
-> - power = log(27) / log(3) = 3 is integer
-> True
+
 ### Example 2:
-> - n = 0 <= 0
-> False
 
 ### Example 3:
 
