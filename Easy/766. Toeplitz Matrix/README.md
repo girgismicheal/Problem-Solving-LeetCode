@@ -1,8 +1,9 @@
 # 766. Toeplitz Matrix [Link](https://leetcode.com/problems/toeplitz-matrix/)
 
 ## Analysis of Algorithms
- - Time complexity: O(n)
- - Space complexity: O(1)
+Given an n*m matrix 
+ - Time complexity: O(n*m)
+ - Space complexity: O(n+m)
 
 ## The Code
 
