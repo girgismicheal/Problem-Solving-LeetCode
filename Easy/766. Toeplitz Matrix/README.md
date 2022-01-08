@@ -1,7 +1,7 @@
 # 766. Toeplitz Matrix [Link](https://leetcode.com/problems/toeplitz-matrix/)
 
 ## Analysis of Algorithms
-Given an n*m matrix 
+Given an (n*m) matrix 
  - Time complexity: O(n*m)
  - Space complexity: O(n+m)
 
