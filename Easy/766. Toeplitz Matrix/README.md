@@ -49,7 +49,8 @@ class Solution:
 > - i = 0 j= 0 : dia[ 0 ]= 1 and matrix[ 0 ][ 0 ] =  1
 > - i = 0 j= 1 : dia[ 1 ]= 2 and matrix[ 0 ][ 1 ] =  2
 > - i = 1 j= 0 : dia[ -1 ]= 2 and matrix[ 1 ][ 0 ] =  2
-> - i = 1 j= 1 : dia[ 0 ]= 1 and matrix[ 1 ][ 1 ] =  2
+> - i = 1 j= 1 : dia[ 0 ]= 1 and matrix[ 1 ][ 1 ] =  2 -> False 
+> False
 
 
 
