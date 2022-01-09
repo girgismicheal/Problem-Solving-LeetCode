@@ -10,7 +10,7 @@
 class Solution:
     def gameOfLife(self, board: List[List[int]]) -> None:
         """
-        Do not return anything, modify board in-place instead.
+        Do not return anything, modify board **in-place** instead.
         """
         def count_lives(row,col):
             row_start = max(0,row-1)
@@ -56,7 +56,8 @@ class Solution:
 > - 
 
 ### Example 2:
-
+> - board = [[1,1],[1,0]]
+> - 
 
 
 
