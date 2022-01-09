@@ -112,4 +112,4 @@ current element = 0 ,ones_num= 3 , board[i][j] = 0 -> 'L'
 current element = 0 ,ones_num= 2 , board[i][j] = 0 -> 0
 
 > - board = [[0, 'D', 0], ['L', 0, 1], ['D', 1, 1], [0, 'L', 0]]
-> - board = [[0,  0 , 0], [ 1 , 0, 1], [ 0 , 1, 1], [0,  1 , 0]]
+> - board = [[0,  0 , 0], [ 1 , 0, 1], [ 0 , 1, 1], [0,  1 , 0 ]]
