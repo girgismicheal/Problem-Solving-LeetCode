@@ -30,8 +30,8 @@ class Solution:
         for i in range(len(board)):
             for j in range(len(board[0])):
                 ones_num = count_lives(i,j) # Get the ones number
-                
-                if board[i][j] == 0 and ones_num==3:
+                # Rules definition
+                if board[i][j] == 0 and ones_num==3: 
                     board[i][j] = 'L'
                 elif board[i][j] == 1:
                     if ones_num <=2:
@@ -40,7 +40,7 @@ class Solution:
                         board[i][j] = 1
                     else:
                         board[i][j] = 'D'
-           
+        # transfer 'L' -> 1 and 'D' -> 0   
         for i in range(len(board)):
             for j in range(len(board[0])):
                 if board[i][j] == 'L':
