@@ -54,7 +54,7 @@ class Solution:
 ## Examples
 ### Example 1:
 > - board = [[0,1,0],[0,0,1],[1,1,1],[0,0,0]]
-> - 
+
 > - Kernel <br />
 [0, 1] <br />
 [0, 0]<br />
@@ -67,37 +67,37 @@ current element = 1 ,ones_num= 2 , board[i][j] = 1 -> 'D'
 > - Kernel<br />
 ['D', 0]<br />
 [0, 1]<br />
-current element = 0 ,ones_num= 3  , board[i][j] = 0 -> 'L'
+current element = 0 ,ones_num= 2  , board[i][j] = 0 -> 0
 > - Kernel<br />
 [0, 'D']<br />
 [0, 0]<br />
 [1, 1]<br />
-current element = 0 ,ones_num= 5 , board[i][j] = 0 -> 0
+current element = 0 ,ones_num= 3 , board[i][j] = 0 -> 'L'
 > - Kernel<br />
 [0, 'D', 0]<br />
 ['L', 0, 1]<br />
 [1, 1, 1]<br />
-current element = 0 ,ones_num= 4 , board[i][j] = 0 -> 0
+current element = 0 ,ones_num= 5 , board[i][j] = 0 -> 0
 > - Kernel<br />
 ['D', 0]<br />
 [0, 1]<br />
 [1, 1]<br />
-current element = 1 ,ones_num= 2 , board[i][j] = 1 -> 'D'
+current element = 1 ,ones_num= 4 , board[i][j] = 1 -> 1
 > - Kernel<br />
 ['L', 0]<br />
 [1, 1]<br />
 [0, 0]<br />
-current element = 1 ,ones_num= 4 , board[i][j] = 1 -> 1
+current element = 1 ,ones_num= 2 , board[i][j] = 1 -> 'D'
 > - Kernel<br />
 ['L', 0, 1]<br />
 ['D', 1, 1]<br />
 [0, 0, 0]<br />
-current element = 1 ,ones_num= 3 , board[i][j] = 1 -> 1
+current element = 1 ,ones_num= 4 , board[i][j] = 1 -> 1
 > - Kernel<br />
 [0, 1]<br />
 [1, 1]<br />
 [0, 0]<br />
-current element = 1 ,ones_num= 2 , board[i][j] = 1 -> 'D'
+current element = 1 ,ones_num= 3 , board[i][j] = 1 -> 1
 > - Kernel<br />
 ['D', 1]<br />
 [0, 0]<br />
