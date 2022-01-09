@@ -30,6 +30,7 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [ ] (2) Add Two Numbers
 - [ ] (73) Set Matrix Zeroes [Link](https://leetcode.com/problems/set-matrix-zeroes/)
 - [ ] (48) Rotate Image [Link](https://leetcode.com/problems/rotate-image/) [video](https://www.youtube.com/watch?v=kd5u3GEQkPY)
+- [ ] (289) Game of Life [Link] (https://leetcode.com/problems/game-of-life/)
 
 ## Hard
 - [X] (4) Median of Two Sorted Arrays
