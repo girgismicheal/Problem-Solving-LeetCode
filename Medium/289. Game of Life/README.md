@@ -57,57 +57,58 @@ class Solution:
 > - 
 > - Kernel <br />
 [0, 1] <br />
-[0, 0]
+[0, 0]<br />
+current element = 0 ,ones_num= 1
 > - Kernel
 [0, 1, 0]<br />
 [0, 0, 1]<br />
-
+current element = 1 ,ones_num= 2
 > - Kernel<br />
 ['D', 0]<br />
 [0, 1]<br />
-
+current element = 0 ,ones_num= 3
 > - Kernel<br />
 [0, 'D']<br />
 [0, 0]<br />
 [1, 1]<br />
-
+current element = 0 ,ones_num= 5
 > - Kernel<br />
 [0, 'D', 0]<br />
 ['L', 0, 1]<br />
 [1, 1, 1]<br />
-
+current element = 0 ,ones_num= 4
 > - Kernel<br />
 ['D', 0]<br />
 [0, 1]<br />
 [1, 1]<br />
-
+current element = 1 ,ones_num= 2
+> - Kernel<br />
+['L', 0]<br />
+[1, 1]<br />
+[0, 0]<br />
+current element = 1 ,ones_num= 4
+> - Kernel<br />
+['L', 0, 1]<br />
+['D', 1, 1]<br />
+[0, 0, 0]<br />
+current element = 1 ,ones_num= 3
+> - Kernel<br />
+[0, 1]<br />
+[1, 1]<br />
+[0, 0]<br />
+current element = 1 ,ones_num= 2
+> - Kernel<br />
+['D', 1]<br />
+[0, 0]<br />
+current element = 0 ,ones_num= 2
+> - Kernel<br />
+['D', 1, 1]<br />
+[0, 0, 0]<br />
+current element = 0 ,ones_num= 3
 > - Kernel
-['L', 0]
-[1, 1]
-[0, 0]
-
-> - Kernel
-['L', 0, 1]
-['D', 1, 1]
-[0, 0, 0]
-
-> - Kernel
-[0, 1]
-[1, 1]
-[0, 0]
-
-> - Kernel
-['D', 1]
-[0, 0]
-
-> - Kernel
-['D', 1, 1]
-[0, 0, 0]
-
-> - Kernel
-[1, 1]
-['L', 0]
-
+[1, 1]<br />
+['L', 0]<br />
+current element = 0 ,ones_num= 2
 ### Example 2:
 > - board = [[1,1],[1,0]]
 > - 
