@@ -31,6 +31,8 @@ class Solution:
             for j in range(len(board[0])):
                 ones_num = count_lives(i,j) # Get the ones number
                 # Rules definition
+                # 'L' means 0 would be 1 at the next generation
+                # 'D' means 1 would be 0 at the next generation
                 if board[i][j] == 0 and ones_num==3: 
                     board[i][j] = 'L'
                 elif board[i][j] == 1:
