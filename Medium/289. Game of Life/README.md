@@ -10,27 +10,26 @@
 class Solution:
     def gameOfLife(self, board: List[List[int]]) -> None:
         """
-        Do not return anything, modify board **in-place** instead.
+        Do not return anything, modify board in-place instead.
         """
         def count_lives(row,col):
+            # define the boundaries limits
             row_start = max(0,row-1)
             col_start = max(0 ,col-1)
             row_end = min(len(board),row+2)
             col_end = min(len(board[0]),col+2)
+            #  Count the Ones or the dead ones in the kernel
             ones_num = 0
             for sublist in board[row_start:row_end]:
                 for j in sublist[col_start:col_end]:
                     if (j==1) or (j=='D'):
                         ones_num+=1
             return ones_num
-            # return(sum([sublist[col_start:col_end].count(1) + sublist[col_start:col_end].count('D') 
-            #             for sublist in board[row_start:row_end]:
-            #            for j in ]))
-        
+            
+        # iterate over the matrix
         for i in range(len(board)):
             for j in range(len(board[0])):
-                
-                ones_num = count_lives(i,j)
+                ones_num = count_lives(i,j) # Get the ones number
                 
                 if board[i][j] == 0 and ones_num==3:
                     board[i][j] = 'L'
