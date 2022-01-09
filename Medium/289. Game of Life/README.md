@@ -52,30 +52,11 @@ class Solution:
 
 ## Examples
 ### Example 1:
-> - nums = [1,2,3,4,5]
-> - min3list= [inf, inf], num = 1
-> - min3list= [1, inf], num = 2
-> - min3list= [1, 2], num = 3
-> - valid
+> - board = [[0,1,0],[0,0,1],[1,1,1],[0,0,0]]
+> - 
 
 ### Example 2:
-> - nums = [5,4,3,2,1]
-> - min3list= [inf, inf], num = 5
-> - min3list= [5, inf], num = 4
-> - min3list= [4, inf], num = 3
-> - min3list= [3, inf], num = 2
-> - min3list= [2, inf], num = 1
-> - min3list= [1, inf]
-> - Invalid
 
-### Example 3:
-> - nums = [2,1,5,0,4,6]
-> - min3list= [inf, inf], num = 2
-> - min3list= [2, inf], num = 1
-> - min3list= [1, inf], num = 5
-> - min3list= [1, 5], num = 0
-> - min3list= [0, 5], num = 4
-> - min3list= [0, 4], num = 6
-> - valid
+
 
 
