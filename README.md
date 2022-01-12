@@ -34,6 +34,7 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [ ] (73) Set Matrix Zeroes [Link](https://leetcode.com/problems/set-matrix-zeroes/)
 - [ ] (48) Rotate Image [Link](https://leetcode.com/problems/rotate-image/) [video](https://www.youtube.com/watch?v=kd5u3GEQkPY)
 - [ ] (289) Game of Life [Link] (https://leetcode.com/problems/game-of-life/)
+- [ ] (646) Maximum Length of Pair Chain [Link](https://leetcode.com/problems/maximum-length-of-pair-chain/)
 
 ## Hard
 - [X] (4) Median of Two Sorted Arrays
