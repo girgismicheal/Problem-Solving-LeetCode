@@ -23,6 +23,7 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [X] (326) Power of Three [Link](https://leetcode.com/problems/power-of-three)
 - [ ] (628) Maximum Product of Three Numbers [Link](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - [ ] (217) Contains Duplicate [Link](https://leetcode.com/problems/contains-duplicate/)
+- [ ] (290) Word Pattern [Link](https://leetcode.com/problems/word-pattern/)
 
 
 ## Medium
