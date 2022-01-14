@@ -4,7 +4,7 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [X] (55) Jump Game
 - [X] (53) Maximum Subarray (Kadane's Algorithm)
 - [X] (766) Toeplitz Matrix
-- [ ] (268) Missing Number [Link](https://leetcode.com/problems/missing-number/)
+- [X] (268) Missing Number [Link](https://leetcode.com/problems/missing-number/)
 - [ ] (500) Keyboard Row
 - [ ] (643) Maximum Average Subarray I
 - [ ] (9) Palindrome Number
