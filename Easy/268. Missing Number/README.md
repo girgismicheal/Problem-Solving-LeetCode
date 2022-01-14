@@ -13,3 +13,22 @@ class Solution:
         return (n**2 + n) //2 - sum(nums)
 ```
 
+## Examples
+
+### Example 1:
+> - nums = [3,0,1]
+> 
+> - n = 3
+> result = 2
+
+### Example 2:
+> - nums = [0,1]
+> 
+> - n = 2
+> result = 2
+
+### Example 3:
+> - nums = [9,6,4,2,3,5,7,0,1]
+> 
+> - n = 9
+> result = 8
