@@ -24,11 +24,11 @@ class Solution:
 ### Example 2:
 > - nums = [0,1]
 > 
-> - n = 2
+> - n = 2 <br/>
 > result = 2
 
 ### Example 3:
 > - nums = [9,6,4,2,3,5,7,0,1]
 > 
-> - n = 9
+> - n = 9 <br/>
 > result = 8
