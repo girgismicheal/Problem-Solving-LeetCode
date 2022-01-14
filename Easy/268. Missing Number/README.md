@@ -18,7 +18,7 @@ class Solution:
 ### Example 1:
 > - nums = [3,0,1]
 > 
-> - n = 3 </b>
+> - n = 3 <br/>
 > result = 2
 
 ### Example 2:
