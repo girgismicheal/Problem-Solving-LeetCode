@@ -44,7 +44,7 @@ class Solution:
 > - True
 
 ### Example 2:
-> nums = [1,0,1,1], k = 1
+> - nums = [1,0,1,1], k = 1
 > 
 > - True
 
