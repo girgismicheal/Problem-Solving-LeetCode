@@ -1,4 +1,4 @@
-# 219. Contains Duplicate II
+# 219. Contains Duplicate II [Link](https://leetcode.com/problems/contains-duplicate-ii/)
 
 ## Analysis of Algorithms
 ### Solution 1:
