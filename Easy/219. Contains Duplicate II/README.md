@@ -35,3 +35,30 @@ class Solution:
                     return True
         return False
 ```
+
+## Examples
+
+### Example 1:
+> - nums = [1,2,3,1], k = 3
+> 
+> - True
+
+### Example 2:
+> nums = [1,0,1,1], k = 1
+> 
+> - True
+
+### Example 3:
+> - nums = [1,2,3,1,2,3], k = 2
+>
+> - False
+
+### Example 4:
+> - nums = [2,2], k = 2
+>
+> - True
+
+### Example 5:
+> - nums = [99,99], k = 3
+>
+> - True
