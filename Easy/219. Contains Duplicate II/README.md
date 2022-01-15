@@ -25,3 +25,13 @@ class Solution:
         return False
 ```
 
+### Solution 2:
+```Python
+class Solution:
+    def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
+        
+        for i in range(len(nums)):
+            if nums[i] in nums[i+1:i+k+1]:
+                    return True
+        return False
+```
