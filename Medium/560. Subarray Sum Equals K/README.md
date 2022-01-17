@@ -5,7 +5,8 @@ Solution 1:
  - Space complexity: O(1)
 
 Solution 2:
-
+ - Time complexity: O(n)
+ - Space complexity: O(n)
 
 ## The Code
 Solution 1:
@@ -21,3 +22,4 @@ class Solution:
                     count +=1
         return count
 ```
+
