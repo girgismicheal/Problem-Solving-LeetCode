@@ -23,3 +23,21 @@ class Solution:
         return count
 ```
 
+Solution 2:
+```Python
+class Solution:
+    def subarraySum(self, nums: List[int], k: int) -> int:
+        curr_sum = 0
+        counter = 0
+        hash_map = {0:1}
+        
+        for i in nums:
+            curr_sum += i
+            if curr_sum-k in hash_map:
+                counter += hash_map[curr_sum-k]
+            if curr_sum not in hash_map:
+                hash_map[curr_sum] = 1
+            else:
+                hash_map[curr_sum] += 1
+        return counter
+```
