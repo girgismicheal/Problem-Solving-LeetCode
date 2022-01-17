@@ -36,7 +36,7 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [ ] (48) Rotate Image [Link](https://leetcode.com/problems/rotate-image/) [video](https://www.youtube.com/watch?v=kd5u3GEQkPY)
 - [ ] (289) Game of Life [Link](https://leetcode.com/problems/game-of-life/)
 - [ ] (646) Maximum Length of Pair Chain [Link](https://leetcode.com/problems/maximum-length-of-pair-chain/)
-- [X] (560) Subarray Sum Equals K 
+- [X] (560) Subarray Sum Equals K [Link](https://leetcode.com/problems/subarray-sum-equals-k/)
 
 ## Hard
 - [X] (4) Median of Two Sorted Arrays
