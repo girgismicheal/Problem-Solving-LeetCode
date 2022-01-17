@@ -1,4 +1,4 @@
-# 560. Subarray Sum Equals K ([Problem Link])(https://leetcode.com/problems/subarray-sum-equals-k/) ([video Explanation])(https://www.youtube.com/watch?v=6poxiip7sBY)
+# 560. Subarray Sum Equals K ([Problem Link](https://leetcode.com/problems/subarray-sum-equals-k/)) ([video Explanation])(https://www.youtube.com/watch?v=6poxiip7sBY)
 ## Analysis of Algorithms
 Solution 1:
  - Time complexity: O(n**2)
