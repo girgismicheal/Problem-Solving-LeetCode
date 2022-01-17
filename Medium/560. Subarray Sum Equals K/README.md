@@ -4,10 +4,11 @@ Solution 1:
  - Time complexity: O(n**2)
  - Space complexity: O(1)
 
+Solution 2:
 
 
 ## The Code
-
+Solution 1:
 ```Python 
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
@@ -20,5 +21,3 @@ class Solution:
                     count +=1
         return count
 ```
-
-
