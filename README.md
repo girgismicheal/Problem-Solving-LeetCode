@@ -25,7 +25,7 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [ ] (217) Contains Duplicate [Link](https://leetcode.com/problems/contains-duplicate/)
 - [ ] (290) Word Pattern [Link](https://leetcode.com/problems/word-pattern/)
 - [X] (219) Contains Duplicate II [Link](https://leetcode.com/problems/contains-duplicate-ii/)
-- [X] (454) 4Sum II [Link](https://leetcode.com/problems/4sum-ii/)
+
 
 
 ## Medium
@@ -38,6 +38,7 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [ ] (289) Game of Life [Link](https://leetcode.com/problems/game-of-life/)
 - [ ] (646) Maximum Length of Pair Chain [Link](https://leetcode.com/problems/maximum-length-of-pair-chain/)
 - [X] (560) Subarray Sum Equals K [Link](https://leetcode.com/problems/subarray-sum-equals-k/)
+- [X] (454) 4Sum II [Link](https://leetcode.com/problems/4sum-ii/)
 
 ## Hard
 - [X] (4) Median of Two Sorted Arrays
