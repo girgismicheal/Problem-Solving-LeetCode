@@ -25,10 +25,10 @@ class Solution:
 ## Examples
 ### Example 1:
 Input: n = 19
-1<sup>2</sup> + 92 = 82
-82 + 22 = 68
-62 + 82 = 100
-12 + 02 + 02 = 1
+1<sup>2</sup> + 9<sup>2</sup> = 82
+8<sup>2</sup> + 2<sup>2</sup> = 68
+6<sup>2</sup> + 8<sup>2</sup> = 100
+1<sup>2</sup> + 0<sup>2</sup> + 0<sup>2</sup> = 1
 
 ### Example 2:
 
