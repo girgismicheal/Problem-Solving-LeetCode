@@ -57,7 +57,7 @@ class Solution:
 
 ### Example 2:
 
-> Input: words = ["omk"]<br/>
+> **Input:** words = ["omk"]<br/>
 > Output: []
 
 ### Example 3:
