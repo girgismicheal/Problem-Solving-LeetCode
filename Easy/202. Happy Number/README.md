@@ -40,7 +40,7 @@ class Solution:
 > 1<sup>2</sup> + 4<sup>2</sup> + 5<sup>2</sup> = 42 <br/>
 > 4<sup>2</sup> + 2<sup>2</sup> = 20 <br/>
 > 2<sup>2</sup> + 0<sup>2</sup> = 4 <br/>
-> **Output: ** False
+> **Output:** False
 
 
 
