@@ -30,8 +30,17 @@ class Solution:
 > **Output: ** True <br/>
 
 ### Example 2:
-> **Input:** n = 2<br/>
-> 
+> **Input:** n = 2 <br/>
+> 2<sup>2</sup> = 4 
+> 4<sup>2</sup> = 16
+> 1<sup>2</sup> + 6<sup>2</sup> = 37
+> 3<sup>2</sup> + 7<sup>2</sup> = 58
+> 5<sup>2</sup> + 8<sup>2</sup> = 89
+> 8<sup>2</sup> + 9<sup>2</sup> = 145
+> 1<sup>2</sup> + 4<sup>2</sup> + 5<sup>2</sup> = 42
+> 4<sup>2</sup> + 2<sup>2</sup> = 20
+> 2<sup>2</sup> + 0<sup>2</sup> = 4
+> **Output: ** False
 
 
 
