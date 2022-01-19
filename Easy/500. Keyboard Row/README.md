@@ -57,10 +57,10 @@ class Solution:
 
 ### Example 2:
 
-> Input: words = ["omk"]
+> Input: words = ["omk"]<br/>
 > Output: []
 
 ### Example 3:
 
-> Input: words = ["adsdf","sfd"]
+> Input: words = ["adsdf","sfd"]<br/>
 > Output: ["adsdf","sfd"]
