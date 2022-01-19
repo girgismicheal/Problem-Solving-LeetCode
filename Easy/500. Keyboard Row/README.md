@@ -3,3 +3,8 @@
  - Time complexity: O(words*letters)
  - Space complexity: O(1)
 
+## The Code
+### Solution 1
+```Python 
+
+```
