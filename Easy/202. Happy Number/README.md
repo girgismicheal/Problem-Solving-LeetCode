@@ -24,7 +24,11 @@ class Solution:
 
 ## Examples
 ### Example 1:
-
+Input: n = 19
+1<sup>2</sup> + 92 = 82
+82 + 22 = 68
+62 + 82 = 100
+12 + 02 + 02 = 1
 
 ### Example 2:
 
