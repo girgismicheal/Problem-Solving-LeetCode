@@ -1,12 +1,10 @@
 # 202. Happy Number [Link](https://leetcode.com/problems/happy-number/)
 
 ## Analysis of Algorithms
-Given an (n*m) matrix 
  - Time complexity: O(1)
  - Space complexity: O(1)
 
 ## The Code
-
 ```Python
 class Solution:
     def isHappy(self, n: int) -> bool:
@@ -24,11 +22,14 @@ class Solution:
 
 ## Examples
 ### Example 1:
-Input: n = 19
+**Input:** n = 19
+
 1<sup>2</sup> + 9<sup>2</sup> = 82
 8<sup>2</sup> + 2<sup>2</sup> = 68
 6<sup>2</sup> + 8<sup>2</sup> = 100
 1<sup>2</sup> + 0<sup>2</sup> + 0<sup>2</sup> = 1
+
+**Output: ** True
 
 ### Example 2:
 
