@@ -5,7 +5,7 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [X] (53) Maximum Subarray (Kadane's Algorithm)
 - [X] (766) Toeplitz Matrix
 - [X] (268) Missing Number [Link](https://leetcode.com/problems/missing-number/)
-- [X] (500) Keyboard Row
+- [X] (500) Keyboard Row  [Link](https://leetcode.com/problems/keyboard-row/)
 - [ ] (643) Maximum Average Subarray I
 - [ ] (9) Palindrome Number
 - [ ] (20) Valid Parentheses
