@@ -54,3 +54,13 @@ class Solution:
 
 > Input: words = ["Hello","Alaska","Dad","Peace"]<br/>
 > Output: ["Alaska","Dad"]
+
+### Example 2:
+
+> Input: words = ["omk"]
+> Output: []
+
+### Example 3:
+
+> Input: words = ["adsdf","sfd"]
+> Output: ["adsdf","sfd"]
