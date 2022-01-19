@@ -52,15 +52,15 @@ class Solution:
 ## Examples
 ### Example 1:
 
-> Input: words = ["Hello","Alaska","Dad","Peace"]<br/>
-> Output: ["Alaska","Dad"]
+> **Input:** words = ["Hello","Alaska","Dad","Peace"]<br/>
+> **Output:** ["Alaska","Dad"]
 
 ### Example 2:
 
 > **Input:** words = ["omk"]<br/>
-> Output: []
+> **Output:** []
 
 ### Example 3:
 
-> Input: words = ["adsdf","sfd"]<br/>
-> Output: ["adsdf","sfd"]
+> **Input:** words = ["adsdf","sfd"]<br/>
+> **Output:** ["adsdf","sfd"]
