@@ -52,5 +52,5 @@ class Solution:
 ## Examples
 ### Example 1:
 
-> Input: words = ["Hello","Alaska","Dad","Peace"]
+> Input: words = ["Hello","Alaska","Dad","Peace"]<br/>
 > Output: ["Alaska","Dad"]
