@@ -23,6 +23,9 @@ class Solution:
 > **Explanation:** "amanaplanacanalpanama" is a palindrome.
 
 ### Example 2:
+> **Input:** s = "race a car" <br/>
+> **Output:** false <br/>
+> **Explanation:** "amanaplanacanalpanama" is a palindrome.
 
 
 
