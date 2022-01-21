@@ -26,7 +26,7 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [ ] (290) Word Pattern [Link](https://leetcode.com/problems/word-pattern/)
 - [X] (219) Contains Duplicate II [Link](https://leetcode.com/problems/contains-duplicate-ii/)
 - [X] (202) Happy Number [Link](https://leetcode.com/problems/happy-number/)
-
+- [X] (125) Valid Palindrome [Link](https://leetcode.com/problems/valid-palindrome/)
 
 ## Medium
 - [X] (334) Increasing Triplet Subsequence
