@@ -25,7 +25,7 @@ class Solution:
 ### Example 2:
 > **Input:** s = "race a car" <br/>
 > **Output:** false <br/>
-> **Explanation:** "amanaplanacanalpanama" is a palindrome.
+> **Explanation:** "raceacar" is not a palindrome.
 
 
 
