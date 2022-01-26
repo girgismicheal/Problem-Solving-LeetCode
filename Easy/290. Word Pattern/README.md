@@ -1,4 +1,4 @@
-# 290. Word Pattern [Problem](https://leetcode.com/problems/word-pattern/)
+# 290. Word Pattern [Link](https://leetcode.com/problems/word-pattern/)
 
 ## Analysis of Algorithms
  - Time complexity: O(n)
