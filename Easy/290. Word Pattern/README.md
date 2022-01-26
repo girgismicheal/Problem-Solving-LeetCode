@@ -31,6 +31,8 @@ class Solution:
 > **Input:** pattern = "abba", s = "dog cat cat dog"<br/>
 > **Output:** true
 ### Example 2:
+> **Input:** pattern = "abba", s = "dog cat cat fish"<br/>
+> **Output:** false
 
 ### Example 3:
 
