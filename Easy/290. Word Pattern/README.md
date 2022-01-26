@@ -1,4 +1,4 @@
-# 53. Maximum Subarray (Using Kadane's Algorithm) [Explanation Video](https://www.youtube.com/watch?v=86CQq3pKSUw)
+# 290. Word Pattern [Problem](https://leetcode.com/problems/word-pattern/)
 
 ## Analysis of Algorithms
  - Time complexity: O(n)
