@@ -28,7 +28,8 @@ class Solution:
 ## Examples
 
 ### Example 1:
-
+> **Input:** pattern = "abba", s = "dog cat cat dog"<br/>
+> **Output:** true
 ### Example 2:
 
 ### Example 3:
