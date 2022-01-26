@@ -35,6 +35,7 @@ class Solution:
 > **Output:** false
 
 ### Example 3:
+> **Input:** pattern = "aaaa", s = "dog cat cat dog"<br/>
+> **Output:** false
 
-### Example 4:
 
