@@ -6,6 +6,7 @@
  
  
 ## The Code
+### The first implementation
 ```Python
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
