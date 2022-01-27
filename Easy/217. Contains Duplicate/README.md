@@ -34,7 +34,9 @@ class Solution:
 > - **Output:** true
 
 ### Example 2:
-> - **Input:** nnums = [1,2,3,4]<br/>
+> - **Input:** nnums = [1,2,3,4]
 > - **Output:** false
-> 
+
 ### Example 3:
+> - **Input:** nums = [1,1,1,3,3,4,3,2,4,2]
+> - **Output:** true
