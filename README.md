@@ -11,7 +11,7 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [ ] (20) Valid Parentheses
 - [ ] (27) Remove Element
 - [ ] (88) Merge Sorted Array
-- [ ] (118) Pascal's Triangle
+- [X] (118) Pascal's Triangle
 - [ ] (119) Pascal's Triangle II
 - [ ] (121) Best Time to Buy and Sell Stock
 - [ ] (160) Intersection of Two Linked Lists
