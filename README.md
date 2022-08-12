@@ -35,6 +35,8 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [X] (112) Path Sum [Link](https://leetcode.com/problems/path-sum/)
 - [X] (100) Same Tree [Link](https://leetcode.com/problems/same-tree/)
 - [X] (101) Symmetric Tree [Link](https://leetcode.com/problems/symmetric-tree/)
+- [X] (104) Maximum Depth of Binary Tree [Link](https://leetcode.com/problems/symmetric-tree/)
+- 
 ## Medium
 - [X] (334) Increasing Triplet Subsequence [Link](https://leetcode.com/problems/increasing-triplet-subsequence/)
 - [X] (238) Product of Array Except Self
