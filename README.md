@@ -50,6 +50,7 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [X] (560) Subarray Sum Equals K [Link](https://leetcode.com/problems/subarray-sum-equals-k/)
 - [X] (454) 4Sum II [Link](https://leetcode.com/problems/4sum-ii/)
 - [X] (36) Valid Sudoku [Link](https://leetcode.com/problems/valid-sudoku/)
+- [X] (81) Search in Rotated Sorted Array II [Link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 
 ## Hard
 - [X] (4) Median of Two Sorted Arrays
