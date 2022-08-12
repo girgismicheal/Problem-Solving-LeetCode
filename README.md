@@ -29,7 +29,7 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [X] (125) Valid Palindrome [Link](https://leetcode.com/problems/valid-palindrome/)
 - [X] (104) Maximum Depth of Binary Tree [Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [X] (404) Sum of Left Leaves [Link](https://leetcode.com/problems/sum-of-left-leaves/)
-- 
+- [X] (530) Minimum Absolute Difference in BST [Link](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
 
 ## Medium
 - [X] (334) Increasing Triplet Subsequence [Link](https://leetcode.com/problems/increasing-triplet-subsequence/)
