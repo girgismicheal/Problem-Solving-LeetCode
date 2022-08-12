@@ -33,7 +33,7 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [X] (1200) Minimum Absolute Difference [Link](https://leetcode.com/problems/minimum-absolute-difference/)
 - [X] (226) Invert Binary Tree [Link](https://leetcode.com/problems/invert-binary-tree/)
 - [X] (112) Path Sum [Link](https://leetcode.com/problems/path-sum/)
-- 
+- [X] (100) Same Tree [Link](https://leetcode.com/problems/same-tree/)
 
 ## Medium
 - [X] (334) Increasing Triplet Subsequence [Link](https://leetcode.com/problems/increasing-triplet-subsequence/)
