@@ -31,6 +31,7 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [X] (404) Sum of Left Leaves [Link](https://leetcode.com/problems/sum-of-left-leaves/)
 - [X] (530) Minimum Absolute Difference in BST [Link](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
 - [X] (1200) Minimum Absolute Difference [Link](https://leetcode.com/problems/minimum-absolute-difference/)
+- [X] (226) Invert Binary Tree [Link](https://leetcode.com/problems/invert-binary-tree/)
 - 
 
 ## Medium
