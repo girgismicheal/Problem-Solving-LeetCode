@@ -32,6 +32,7 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [X] (530) Minimum Absolute Difference in BST [Link](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
 - [X] (1200) Minimum Absolute Difference [Link](https://leetcode.com/problems/minimum-absolute-difference/)
 - [X] (226) Invert Binary Tree [Link](https://leetcode.com/problems/invert-binary-tree/)
+- [X] (112) Path Sum [Link](https://leetcode.com/problems/path-sum/)
 - 
 
 ## Medium
