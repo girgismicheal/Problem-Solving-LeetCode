@@ -35,7 +35,7 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [X] (112) Path Sum [Link](https://leetcode.com/problems/path-sum/)
 - [X] (100) Same Tree [Link](https://leetcode.com/problems/same-tree/)
 - [X] (101) Symmetric Tree [Link](https://leetcode.com/problems/symmetric-tree/)
-- [X] (104) Maximum Depth of Binary Tree [Link](https://leetcode.com/problems/symmetric-tree/)
+- [X] (104) Maximum Depth of Binary Tree [Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [X] (111) Minimum Depth of Binary Tree [Link](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
 ## Medium
