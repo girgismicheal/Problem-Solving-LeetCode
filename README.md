@@ -1,6 +1,6 @@
 # Problem-solving
-![](Image/LeetCode_Logo.png)
-In this repo, i am trying to solve some problems with the most efficient and clear way.
+![LeetCode_Logo](Image/LeetCode_Logo.png)
+<br>In this repo, i am trying to solve some problems with the most efficient and clear way.
 ## Easy
 - [X] (766) Toeplitz Matrix [Link](https://leetcode.com/problems/toeplitz-matrix/)
 - [X] (268) Missing Number [Link](https://leetcode.com/problems/missing-number/)
