@@ -10,7 +10,6 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [ ] (20) Valid Parentheses [Link](https://leetcode.com/problems/valid-parentheses/)
 - [ ] (27) Remove Element [Link](https://leetcode.com/problems/remove-element/)
 - [ ] (88) Merge Sorted Array [Link](https://leetcode.com/problems/merge-sorted-array/)
-
 - [ ] (118) Pascal's Triangle  [Link](https://leetcode.com/problems/pascals-triangle/)
 - [ ] (119) Pascal's Triangle II  [Link](https://leetcode.com/problems/pascals-triangle-ii/)
 - [ ] (121) Best Time to Buy and Sell Stock [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
@@ -18,7 +17,6 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [ ] (674) Longest Continuous Increasing Subsequence [Link](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
 - [ ] (1) Two Sum [Link](https://leetcode.com/problems/two-sum/)
 - [ ] (1009) Complement of Base 10 Integer [Link](https://leetcode.com/problems/complement-of-base-10-integer/)
-
 - [ ] (14) Longest Common Prefix [Link](https://leetcode.com/problems/longest-common-prefix/)
 - [ ] (13) Roman to Integer [Link](https://leetcode.com/problems/roman-to-integer/)
 - [X] (326) Power of Three [Link](https://leetcode.com/problems/power-of-three)
