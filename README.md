@@ -1,23 +1,24 @@
 # Problem-solving
+![](Image/LeetCode_Logo.png)
 In this repo, i am trying to solve some problems with the most efficient and clear way.
 ## Easy
-- [X] (55) Jump Game
-- [X] (53) Maximum Subarray (Kadane's Algorithm)
-- [X] (766) Toeplitz Matrix
+- [X] (766) Toeplitz Matrix [Link](https://leetcode.com/problems/toeplitz-matrix/)
 - [X] (268) Missing Number [Link](https://leetcode.com/problems/missing-number/)
 - [X] (500) Keyboard Row [Link](https://leetcode.com/problems/keyboard-row/)
-- [ ] (643) Maximum Average Subarray I
-- [ ] (9) Palindrome Number
-- [ ] (20) Valid Parentheses
-- [ ] (27) Remove Element
-- [ ] (88) Merge Sorted Array
-- [ ] (118) Pascal's Triangle
-- [ ] (119) Pascal's Triangle II
-- [ ] (121) Best Time to Buy and Sell Stock
-- [ ] (160) Intersection of Two Linked Lists
-- [ ] (674) Longest Continuous Increasing Subsequence
-- [ ] (1) Two Sum
-- [ ] (1009) Complement of Base 10 Integer
+- [ ] (643) Maximum Average Subarray I [Link](https://leetcode.com/problems/maximum-average-subarray-i/)
+- [ ] (9) Palindrome Number [Link](https://leetcode.com/problems/palindrome-number/)
+- [ ] (20) Valid Parentheses [Link](https://leetcode.com/problems/valid-parentheses/)
+- [ ] (27) Remove Element [Link](https://leetcode.com/problems/remove-element/)
+- [ ] (88) Merge Sorted Array [Link](https://leetcode.com/problems/merge-sorted-array/)
+
+- [ ] (118) Pascal's Triangle  [Link](https://leetcode.com/problems/pascals-triangle/)
+- [ ] (119) Pascal's Triangle II  [Link](https://leetcode.com/problems/pascals-triangle-ii/)
+- [ ] (121) Best Time to Buy and Sell Stock [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [ ] (160) Intersection of Two Linked Lists [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- [ ] (674) Longest Continuous Increasing Subsequence [Link](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
+- [ ] (1) Two Sum [Link](https://leetcode.com/problems/two-sum/)
+- [ ] (1009) Complement of Base 10 Integer [Link](https://leetcode.com/problems/complement-of-base-10-integer/)
+
 - [ ] (14) Longest Common Prefix [Link](https://leetcode.com/problems/longest-common-prefix/)
 - [ ] (13) Roman to Integer [Link](https://leetcode.com/problems/roman-to-integer/)
 - [X] (326) Power of Three [Link](https://leetcode.com/problems/power-of-three)
@@ -39,10 +40,11 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [X] (111) Minimum Depth of Binary Tree [Link](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 
 ## Medium
+- [X] (55) Jump Game [Link](https://leetcode.com/problems/jump-game/)
+- [X] (53) Maximum Subarray (Kadane's Algorithm) [Link](https://leetcode.com/problems/maximum-subarray/)
 - [X] (334) Increasing Triplet Subsequence [Link](https://leetcode.com/problems/increasing-triplet-subsequence/)
-- [X] (238) Product of Array Except Self
-- [ ] (55) Jump Game
-- [ ] (2) Add Two Numbers
+- [X] (238) Product of Array Except Self [Link](https://leetcode.com/problems/product-of-array-except-self/)
+- [ ] (2) Add Two Numbers [Link](https://leetcode.com/problems/add-two-numbers/)
 - [ ] (73) Set Matrix Zeroes [Link](https://leetcode.com/problems/set-matrix-zeroes/)
 - [ ] (48) Rotate Image [Link](https://leetcode.com/problems/rotate-image/) [video](https://www.youtube.com/watch?v=kd5u3GEQkPY)
 - [ ] (289) Game of Life [Link](https://leetcode.com/problems/game-of-life/)
@@ -53,4 +55,4 @@ In this repo, i am trying to solve some problems with the most efficient and cle
 - [X] (81) Search in Rotated Sorted Array II [Link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 
 ## Hard
-- [X] (4) Median of Two Sorted Arrays
+- [X] (4) Median of Two Sorted Arrays [Link](https://leetcode.com/problems/median-of-two-sorted-arrays/)
